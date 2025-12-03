@@ -2,6 +2,8 @@
 
 Welcome to the **Clojure Bioinformatics Format Parsers** organization!
 
+**Currently, all code under this Org is vibe-coded slop.** But I am somewhat serious about the underlying intent.
+
 ## About
 
 This organization serves to bundle development on Clojure libraries that implement parsers, readers, and writers for data formats commonly used in Bioinformatics.
