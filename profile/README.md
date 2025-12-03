@@ -2,7 +2,7 @@
 
 Welcome to the **Clojure Bioinformatics Format Parsers** organization!
 
-**Currently, all code under this Org is vibe-coded slop.** But I am somewhat serious about the underlying intent.
+**Currently, all code under this Org is vibe-coded slop.** This includes this Readme, except this note. But I am somewhat serious about the underlying idea.
 
 ## About
 
