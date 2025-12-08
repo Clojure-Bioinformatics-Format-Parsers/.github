@@ -18,12 +18,9 @@ This organization serves to bundle development on Clojure libraries that impleme
 
 ### Future Vision
 
-The long-term aim of this organization is to move towards creating and curating formal descriptions for all supported formats in machine-readable formats, including:
+A long-term vision for this project is to move towards creating and curating formal descriptions for all supported formats in machine-readable formats, including:
 
-- **BNF Grammars** - Formal grammar specifications
-- **XSDs** - XML Schema Definitions for XML-based formats
-- **JSON Schemas** - Schema definitions for JSON-based formats
-
-## Contributing
-
-If you're interested in contributing to any of the projects, please check the individual repository guidelines.
+- **BNF Grammars**
+- **XSDs**
+- **JSON Schemas**
+- **Kaitai Structs**
